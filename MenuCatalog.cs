@@ -13,7 +13,7 @@ namespace UML2
 
         public void Create(Pizza pizza)
         {
-            //List: _pizzas.Add(pizza); 
+             
             _pizzas.Add(pizza);
         }
         public void PrintMenu()
